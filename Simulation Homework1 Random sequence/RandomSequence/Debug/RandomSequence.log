@@ -1,0 +1,27 @@
+﻿  main.c
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\UD.h(24,56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\UD.h(26,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\UD.h(27,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\UD.h(28,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\GD.h(98,64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\GD.h(99,68): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\GD.h(160,47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\GD.h(169,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\GD.h(179,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\GD.h(191,1): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\GD.h(221,95): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\GD.h(225,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\GD.h(229,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\GD.h(262,51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\myFunctions.h(6,1): warning C4005: “PI”: 宏重定义
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\GD.h(6): message : 参见“PI”的前一个定义
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\myFunctions.h(183,59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\myFunctions.h(184,59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\myFunctions.h(230,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\myFunctions.h(226,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\BPSK.h(66,59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\BPSK.h(76,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\BPSK.h(80,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\BPSK.h(147,39): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\FN.h(61): warning C4716: “FN2txt”: 必须返回一个值
+  RandomSequence.vcxproj -> E:\OneDrive\文档\Vs2019 Projects\Simulation Homework1 Random sequence\RandomSequence\Debug\RandomSequence.exe
